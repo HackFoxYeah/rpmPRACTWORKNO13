@@ -1,0 +1,48 @@
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\practWorkNo13\bin\Debug\practWorkNo13.exe.config
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\practWorkNo13\bin\Debug\practWorkNo13.exe
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\practWorkNo13\bin\Debug\practWorkNo13.pdb
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\practWorkNo13\obj\Debug\practWorkNo13.csproj.AssemblyReference.cache
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\practWorkNo13\obj\Debug\practWorkNo13.csproj.SuggestedBindingRedirects.cache
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\practWorkNo13\obj\Debug\MainWindow.g.cs
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\practWorkNo13\obj\Debug\App.g.cs
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\practWorkNo13\obj\Debug\practWorkNo13_MarkupCompile.cache
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\practWorkNo13\obj\Debug\practWorkNo13_MarkupCompile.lref
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\practWorkNo13\obj\Debug\MainWindow.baml
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\practWorkNo13\obj\Debug\practWorkNo13.g.resources
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\practWorkNo13\obj\Debug\practWorkNo13.Properties.Resources.resources
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\practWorkNo13\obj\Debug\practWorkNo13.csproj.GenerateResource.cache
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\practWorkNo13\obj\Debug\practWorkNo13.csproj.CoreCompileInputs.cache
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\practWorkNo13\obj\Debug\practWorkNo13.exe
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\practWorkNo13\obj\Debug\practWorkNo13.pdb
+C:\Users\исп-31.RSSK\Desktop\practWorkNo13\bin\Debug\practWorkNo13.exe.config
+C:\Users\исп-31.RSSK\Desktop\practWorkNo13\bin\Debug\practWorkNo13.exe
+C:\Users\исп-31.RSSK\Desktop\practWorkNo13\bin\Debug\practWorkNo13.pdb
+C:\Users\исп-31.RSSK\Desktop\practWorkNo13\obj\Debug\practWorkNo13.csproj.AssemblyReference.cache
+C:\Users\исп-31.RSSK\Desktop\practWorkNo13\obj\Debug\practWorkNo13.csproj.SuggestedBindingRedirects.cache
+C:\Users\исп-31.RSSK\Desktop\practWorkNo13\obj\Debug\MainWindow.g.cs
+C:\Users\исп-31.RSSK\Desktop\practWorkNo13\obj\Debug\App.g.cs
+C:\Users\исп-31.RSSK\Desktop\practWorkNo13\obj\Debug\practWorkNo13_MarkupCompile.cache
+C:\Users\исп-31.RSSK\Desktop\practWorkNo13\obj\Debug\practWorkNo13_MarkupCompile.lref
+C:\Users\исп-31.RSSK\Desktop\practWorkNo13\obj\Debug\MainWindow.baml
+C:\Users\исп-31.RSSK\Desktop\practWorkNo13\obj\Debug\practWorkNo13.g.resources
+C:\Users\исп-31.RSSK\Desktop\practWorkNo13\obj\Debug\practWorkNo13.Properties.Resources.resources
+C:\Users\исп-31.RSSK\Desktop\practWorkNo13\obj\Debug\practWorkNo13.csproj.GenerateResource.cache
+C:\Users\исп-31.RSSK\Desktop\practWorkNo13\obj\Debug\practWorkNo13.csproj.CoreCompileInputs.cache
+C:\Users\исп-31.RSSK\Desktop\practWorkNo13\obj\Debug\practWorkNo13.exe
+C:\Users\исп-31.RSSK\Desktop\practWorkNo13\obj\Debug\practWorkNo13.pdb
+E:\Капустин ИСП-31\Кодинг\practWorkNo13\bin\Debug\practWorkNo13.exe.config
+E:\Капустин ИСП-31\Кодинг\practWorkNo13\bin\Debug\practWorkNo13.exe
+E:\Капустин ИСП-31\Кодинг\practWorkNo13\bin\Debug\practWorkNo13.pdb
+E:\Капустин ИСП-31\Кодинг\practWorkNo13\obj\Debug\practWorkNo13.csproj.AssemblyReference.cache
+E:\Капустин ИСП-31\Кодинг\practWorkNo13\obj\Debug\practWorkNo13.csproj.SuggestedBindingRedirects.cache
+E:\Капустин ИСП-31\Кодинг\practWorkNo13\obj\Debug\MainWindow.g.cs
+E:\Капустин ИСП-31\Кодинг\practWorkNo13\obj\Debug\App.g.cs
+E:\Капустин ИСП-31\Кодинг\practWorkNo13\obj\Debug\practWorkNo13_MarkupCompile.cache
+E:\Капустин ИСП-31\Кодинг\practWorkNo13\obj\Debug\practWorkNo13_MarkupCompile.lref
+E:\Капустин ИСП-31\Кодинг\practWorkNo13\obj\Debug\MainWindow.baml
+E:\Капустин ИСП-31\Кодинг\practWorkNo13\obj\Debug\practWorkNo13.g.resources
+E:\Капустин ИСП-31\Кодинг\practWorkNo13\obj\Debug\practWorkNo13.Properties.Resources.resources
+E:\Капустин ИСП-31\Кодинг\practWorkNo13\obj\Debug\practWorkNo13.csproj.GenerateResource.cache
+E:\Капустин ИСП-31\Кодинг\practWorkNo13\obj\Debug\practWorkNo13.csproj.CoreCompileInputs.cache
+E:\Капустин ИСП-31\Кодинг\practWorkNo13\obj\Debug\practWorkNo13.exe
+E:\Капустин ИСП-31\Кодинг\practWorkNo13\obj\Debug\practWorkNo13.pdb
